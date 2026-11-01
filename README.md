@@ -4,8 +4,8 @@ This repository contains three java programs developed for the COS 201 assignmen
 # COS 201 — Computer Programming I
 
 ## Student Information
-- Name: [Enter Your Full Name]
-- Matriculation Number: [Enter Your Matric Number]
+- Name: [Nlemchi Nathaniel Vera Chidera]
+- Matriculation Number: [25/16186]
 - Programme: Computer Science
 - Course: COS 201 — Computer Programming I
 
